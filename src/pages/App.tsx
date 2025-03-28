@@ -1,5 +1,5 @@
 import Accordion from "../components/accordion.js";
-import Form from "../components/form.tsx";
+import Form from "../components/Form.tsx";
 
 function App() {
   return (
